@@ -49,7 +49,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>iconfinder-securityprotectlockshield35-4021451_113107.ico</ApplicationIcon>
+    <ApplicationIcon>security_10791.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <SignManifests>true</SignManifests>
@@ -133,6 +133,7 @@
   <ItemGroup>
     <Content Include="iconfinder-securityprotectlockshield35-4021451_113107.ico" />
     <Content Include="password_22405.ico" />
+    <Content Include="security_10791.ico" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
